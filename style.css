@@ -69,7 +69,10 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #ffadc0;
 }
-
+.header-text h2{
+    margin-top: 20px;
+    color: #416A9B;
+}
 /* -----portfolio----- */
 #portfolio{
     padding: 50px 0;
